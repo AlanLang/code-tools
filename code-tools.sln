@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code-tools", "code-tools\code-tools.csproj", "{E77EFD09-AF50-40C5-BB3F-8CD26E474991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdfmaker", "pdfmaker\pdfmaker.csproj", "{1707BA18-9B97-4ABD-BDDB-34C737DD1B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arthas", "Arthas\Arthas.csproj", "{F5DBBC65-F7D3-4A0D-8A9F-3DAFD3DEB7ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77EFD09-AF50-40C5-BB3F-8CD26E474991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77EFD09-AF50-40C5-BB3F-8CD26E474991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77EFD09-AF50-40C5-BB3F-8CD26E474991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77EFD09-AF50-40C5-BB3F-8CD26E474991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1707BA18-9B97-4ABD-BDDB-34C737DD1B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1707BA18-9B97-4ABD-BDDB-34C737DD1B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1707BA18-9B97-4ABD-BDDB-34C737DD1B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1707BA18-9B97-4ABD-BDDB-34C737DD1B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DBBC65-F7D3-4A0D-8A9F-3DAFD3DEB7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DBBC65-F7D3-4A0D-8A9F-3DAFD3DEB7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DBBC65-F7D3-4A0D-8A9F-3DAFD3DEB7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DBBC65-F7D3-4A0D-8A9F-3DAFD3DEB7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
